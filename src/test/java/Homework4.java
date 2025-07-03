@@ -19,7 +19,7 @@ public class Homework4 {
 
 
     @Test
-    void SoftAssertionshaveJUnit5() {
+    void softAssertionshaveJUnit5() {
 
         //Открыть Selenide на GitHub
         open("/selenide/selenide");
